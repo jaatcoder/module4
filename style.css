@@ -8,7 +8,7 @@ body
 h1{
     font: 700px;
 }
-#orange-color
+.orange-color
 {
     color: orange;
 }
@@ -57,4 +57,30 @@ section{
 }
 .second-sect p{
     padding-right: 150px;
+}
+#hw-1
+{
+   
+    width: 40%;
+     
+    margin-left: 5%;
+    margin-right:5% ;
+   box-shadow: 10px 10px 40px gray;
+   padding-left: 20px;
+}
+#hw-2
+{ 
+    width: 40%;
+     
+    margin-left: 5%;
+    margin-right:5% ;
+   box-shadow: 10px 10px 40px gray;
+   padding-left: 20px;
+}
+.experience-sect
+{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 90px;
 }
