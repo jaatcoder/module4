@@ -1,11 +1,12 @@
 body
 {
     font-family: 'Poppins', sans-serif;
-    font-siize: 0;
+    font-weight: 700;
+    font: 700p;
     margin: 0px;
 }
 h1{
-    font: 100px;
+    font: 700px;
 }
 #orange-color
 {
